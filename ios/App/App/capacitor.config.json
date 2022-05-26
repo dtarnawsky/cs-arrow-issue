@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cs-arrow-issue",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
